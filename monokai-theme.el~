@@ -1182,7 +1182,7 @@ Each element has the form (NAME . HEX).
 
  ;;;;; linum-mode
   '(linum
-    (:foreground monokai-blue-1 
+    (:foreground monokai-cyan-1 
                  :background monokai-bg))
 
  ;;;;; macrostep
